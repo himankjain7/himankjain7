@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/himankjain7">GitHub</a> •
-  <a href="https://www.figma.com/@himank">Figma</a> •
+  <a href="https://www.figma.com/@himankjain07">Figma</a> •
   <a href="https://www.instagram.com/himankjain_07?igsh=aGpoNmUxNWNiMWJs">Instagram</a>
 </p>
 
