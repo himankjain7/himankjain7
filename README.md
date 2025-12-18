@@ -1,42 +1,81 @@
-<h1 align="center">Hi 👋, I'm Himank Jain</h1>
-<h3 align="center">B.Tech Student | UI/UX Designer | Web Development Learner</h3>
-
----
-
-🎓 **About Me**
-
-- 👨‍🎓 First-year B.Tech student passionate about technology  
-- 🎨 Interested in **UI/UX Design** and **Frontend Development**  
-- 🐍 Learning **Python** along with C and Web technologies  
-- 💡 Building my foundation through consistent practice  
-
----
-
-🛠️ **Skills & Tools**
-
-- 🎨 UI/UX Design: **Figma**
-- 💻 Frontend: **HTML, CSS (Beginner)**
-- 🔧 Programming: **C, Python (Basics)**
-- 🌱 Version Control: **Git & GitHub**
-
----
-
-📊 **GitHub Stats**
+<h1 align="center">Hey 👋 I'm Himank Jain</h1>
+<p align="center">
+  🎓 B.Tech Student • 🎨 UI/UX Enthusiast • 💻 Web Development Learner
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himankjain7&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/himankjain7">GitHub</a> •
+  <a href="https://www.figma.com/@himank">Figma</a> •
+  <a href="https://www.instagram.com/himankjain_07?igsh=aGpoNmUxNWNiMWJs">Instagram</a>
 </p>
 
 ---
 
-📫 **Connect With Me**
+## 🌱 About Me
 
-- 🧑‍💻 GitHub: https://github.com/himankjain7   
-- 📸 Instagram: https://www.instagram.com/himankjain_07?igsh=aGpoNmUxNWNiMWJs  
+- 🎓 First-year **B.Tech student**
+- 🎨 Passionate about **UI/UX Design**
+- 🐍 Learning **Python** & **C**
+- 🌐 Exploring **Frontend Development**
+- 🚀 Growing step-by-step with consistency
 
 ---
 
-✨ *“Learning every day and building my foundation strong.”*
+## 🛠️ Skills & Tools
+
+<table>
+<tr>
+<td>
+
+### 🎨 Design
+- Figma  
+- UI Layouts  
+- Color & Typography  
+
+</td>
+<td>
+
+### 💻 Development
+- HTML  
+- CSS  
+- C (Basics)  
+- Python (Basics)  
+
+</td>
+<td>
+
+### 🔧 Tools
+- Git  
+- GitHub  
+- VS Code  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himankjain7&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📌 What I'm Focusing On Right Now
+
+- ✔ Improving UI/UX skills using Figma  
+- ✔ Practicing Python basics  
+- ✔ Uploading college projects  
+- ✔ Learning Git & GitHub properly  
+
+---
+
+<p align="center">
+  ✨ <i>"Building skills today for better opportunities tomorrow."</i>
+</p>
+
 
 
 
