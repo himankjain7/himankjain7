@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Himank Jain</h1>
+<h3 align="center">B.Tech Student | UI/UX Designer | Web Development Learner</h3>
 
-<!--
-**himankjain7/himankjain7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 First-year B.Tech student passionate about technology  
+- 🎨 Interested in **UI/UX Design** and **Frontend Development**  
+- 🐍 Learning **Python** along with C and Web technologies  
+- 💡 Building my foundation through consistent practice  
+
+---
+
+🛠️ **Skills & Tools**
+
+- 🎨 UI/UX Design: **Figma**
+- 💻 Frontend: **HTML, CSS (Beginner)**
+- 🔧 Programming: **C, Python (Basics)**
+- 🌱 Version Control: **Git & GitHub**
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himankjain7&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+📫 **Connect With Me**
+
+- 🧑‍💻 GitHub: https://github.com/himankjain7   
+- 📸 Instagram: https://www.instagram.com/himankjain_07?igsh=aGpoNmUxNWNiMWJs  
+
+---
+
+✨ *“Learning every day and building my foundation strong.”*
+
+
+
